@@ -1,0 +1,4 @@
+update.2022/02/25:
+modify the program flow, delete CUDA file. 
+now you can access image data via pointer
+
